@@ -1,0 +1,30 @@
+[general]
+name=Road Pothole Detector
+qgisMinimumVersion=3.36
+description=AI-based Road Pothole/Crack Detection & Maintenance Route Optimization Plugin for road maintenance management
+version=1.0.0
+author=Jordan Moon
+email=kekero1004@example.com
+
+about=This plugin provides AI-based automatic detection of road potholes and cracks from drone/vehicle imagery, deterioration prediction, risk assessment, and maintenance route optimization using TSP algorithm. Key features include:
+    - Automatic detection and mapping of road defects (potholes, cracks)
+    - Deterioration prediction and risk level assessment (A~E grades)
+    - Optimal maintenance route generation using TSP algorithm
+    - Work order PDF generation with location and material estimates
+    - Life Cycle Cost (LCC) analysis and change detection monitoring
+
+tracker=https://github.com/example/road-pothole-detector/issues
+repository=https://github.com/example/road-pothole-detector
+
+changelog=1.0.0 - Initial release with core detection and route optimization features
+
+tags=road,pothole,crack,detection,maintenance,route,optimization,drone,ai,infrastructure
+
+homepage=https://github.com/example/road-pothole-detector
+category=Analysis
+icon=icon.png
+
+experimental=False
+deprecated=False
+server=False
+hasProcessingProvider=False
