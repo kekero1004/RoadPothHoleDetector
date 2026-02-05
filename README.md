@@ -1,4 +1,5 @@
 # Road Pothole Detector
+<img width="893" height="728" alt="image" src="https://github.com/user-attachments/assets/fbd0e76a-0c0c-4008-9f7d-a173476efb4c" />
 
 ## AI-based Road Pothole/Crack Detection & Maintenance Route Optimization Plugin
 
